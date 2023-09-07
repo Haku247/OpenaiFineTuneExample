@@ -1,0 +1,84 @@
+{
+    "qa": [
+        {
+            "question": "When can I borrow books?",
+            "answer": "You can borrow books during library hours, which are from 9 am to 5 pm, Monday to Friday."
+        },
+        {
+            "question": "Can I renew my books online?",
+            "answer": "Yes, you can log into your library account on our website and renew your books there."
+        },
+        {
+            "question": "How many books can I borrow at once?",
+            "answer": "Students are allowed to borrow up to 5 books at a time."
+        },
+        {
+            "question": "What happens if I return a book late?",
+            "answer": "There is a late fee for overdue books, which is $1 per day."
+        },
+        {
+            "question": "Do you have study rooms available?",
+            "answer": "Yes, we have study rooms that students can reserve. Check availability on our website."
+        },
+        {
+            "question": "Can I request a book you don't have?",
+            "answer": "Certainly! You can place a request, and we'll try to get it for you either by purchasing or through inter-library loans."
+        },
+        {
+            "question": "Do you have digital books or e-books?",
+            "answer": "Yes, we have a collection of e-books available. You can access them via our library's digital portal."
+        },
+        {
+            "question": "How do I get a library card?",
+            "answer": "You can apply for a library card at the front desk. Bring your student ID for verification."
+        },
+        {
+            "question": "Is there a printer and scanner available?",
+            "answer": "Yes, we have printers and scanners for students. There's a small fee for printing."
+        },
+        {
+            "question": "Can I donate books to the library?",
+            "answer": "Absolutely! We appreciate book donations. Please drop them off at the front desk."
+        },
+        {
+            "question": "How long can I keep borrowed books?",
+            "answer": "The general borrowing period is 3 weeks. However, some reference books may have shorter periods."
+        },
+        {
+            "question": "Are there any quiet study zones?",
+            "answer": "Yes, the library has dedicated quiet zones on the second floor."
+        },
+        {
+            "question": "Do you hold any workshops or events?",
+            "answer": "Yes, we frequently hold reading workshops, author events, and study skills seminars. Check our events page for more info."
+        },
+        {
+            "question": "Can I access the library's database from home?",
+            "answer": "Yes, using your library account, you can access our digital resources from anywhere."
+        },
+        {
+            "question": "What should I do if I lost a book?",
+            "answer": "Please report it as soon as possible. You might be charged for the replacement cost."
+        },
+        {
+            "question": "Do you offer any courses on research skills?",
+            "answer": "Yes, we periodically offer research skills workshops for students. Dates and times are posted on our website."
+        },
+        {
+            "question": "How can I contact the librarian?",
+            "answer": "You can contact the librarian via email or phone. Details are available on our contact page."
+        },
+        {
+            "question": "Are there computers I can use in the library?",
+            "answer": "Yes, we have computer terminals for students. Just log in with your student ID."
+        },
+        {
+            "question": "Can I bring my own laptop and use the Wi-Fi?",
+            "answer": "Absolutely! We have free Wi-Fi for students. Just connect to the 'Library-Student' network."
+        },
+        {
+            "question": "Do you have any recommendations for history books?",
+            "answer": "Certainly! We have a dedicated history section on the third floor. Additionally, our online catalog has a list of top-rated history books."
+        }
+    ]
+}
